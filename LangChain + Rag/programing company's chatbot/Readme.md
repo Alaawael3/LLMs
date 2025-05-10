@@ -1,10 +1,10 @@
-# 🧠 Ask My Company’s Chatbot
+# Ask My Company’s Chatbot
 
 A conversational AI chatbot built with [LangChain](https://www.langchain.com/), [Gemini 1.5 Pro](https://ai.google.dev/), FAISS vector search, and [Streamlit](https://streamlit.io/) to intelligently answer company-specific FAQs. The model answers questions based solely on a provided CSV knowledge base and avoids hallucinations by responding with "I don't know" when context is insufficient.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Vector Search (FAISS)**: Semantic search on your company's FAQ data.
 - **LLM Integration (Gemini 1.5 Pro)**: Accurate and context-aware responses.
@@ -14,7 +14,7 @@ A conversational AI chatbot built with [LangChain](https://www.langchain.com/), 
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 - `LangChain`
 - `Gemini 1.5 Pro` via `langchain-google-genai`
