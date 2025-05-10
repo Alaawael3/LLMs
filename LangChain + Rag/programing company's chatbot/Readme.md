@@ -6,11 +6,11 @@ A conversational AI chatbot built with [LangChain](https://www.langchain.com/), 
 
 ## 🚀 Features
 
-- 🔎 **Vector Search (FAISS)**: Semantic search on your company's FAQ data.
-- 🤖 **LLM Integration (Gemini 1.5 Pro)**: Accurate and context-aware responses.
-- 📁 **CSV Knowledge Base**: Easily update your source documents by modifying `codebasics_faqs.csv`.
-- 🔗 **LangChain-Powered Chains**: Prompt templating and document-based QA.
-- 🖥️ **Streamlit Frontend**: Simple and interactive web UI.
+- **Vector Search (FAISS)**: Semantic search on your company's FAQ data.
+- **LLM Integration (Gemini 1.5 Pro)**: Accurate and context-aware responses.
+- **CSV Knowledge Base**: Easily update your source documents by modifying `codebasics_faqs.csv`.
+- **LangChain-Powered Chains**: Prompt templating and document-based QA.
+- **Streamlit Frontend**: Simple and interactive web UI.
 
 ---
 
