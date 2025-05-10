@@ -1,5 +1,5 @@
 
-# Job Scraper & Cold Email Generator
+# Job Scraper & Email Generator
 
 This project automates the process of scraping job descriptions from company websites, extracting structured job data, querying relevant past projects from a portfolio, and generating personalized cold emails tailored to each opportunity using a powerful LLM (LLaMA-3.3-70B via Groq).
 
